@@ -2,6 +2,9 @@ package com.kenny.pt4j;
 
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * String concat performance
+ */
 @Slf4j
 public class StringConcat {
 
